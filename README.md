@@ -365,46 +365,46 @@ Customized in `tailwind.config.ts` with:
 ## Application Flow
 
 ### 1. Home Page
-![HomePage](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/HomePage.png)
+![HomePage](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/HomePage.png)
 
 ### 2. Booking
-![Booking](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/Booking.png)
+![Booking](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/Booking.png)
 
 ### 3. Train Details
-![Details](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/Details.png)
+![Details](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/Details.png)
 
 ### 4. Seat Selection
-![Seats](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/Seats.png)
+![Seats](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/Seats.png)
 
 ### 5. Confirmation Step
-![Confirm Step](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/confrm_1.png)
+![Confirm Step](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/confrm_1.png)
 
 ### 6. Final Confirmation
-![Confirmation](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/Confirmation.png)
+![Confirmation](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/Confirmation.png)
 
 ### 7. Bookings
-![Bookings](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/Bookings.png)
+![Bookings](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/Bookings.png)
 
 ### 8. PDF Ticket
-![PDF Ticket](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/Pdf_Ticket.png)
+![PDF Ticket](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/Pdf_Ticket.png)
 
 ### 9. PNR Status
-![PNR Status](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/PNR_status.png)
+![PNR Status](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/PNR_status.png)
 
 ---
 
 ## User Dashboard
-![User](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/user.png)
+![User](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/user.png)
 
 ---
 
 ## Admin Panel
 
 ### Admin Dashboard
-![Admin1](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/admin1.png)
+![Admin1](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/admin1.png)
 
 ### Admin Management
-![Admin2](https://raw.githubusercontent.com/SuryaThejas-07/Railway_Rover/8ca0fbd17d91513cb441875bcf91d6fa1fd4d0b2/images/admin2.png)
+![Admin2](https://raw.githubusercontent.com/SuryaThejas-07/Railway-Reservation-System/bfd7c509a4d30cbb0e4c633219d478a17e3c652c/images/admin2.png)
 
 ---
 
